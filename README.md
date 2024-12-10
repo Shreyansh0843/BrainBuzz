@@ -39,7 +39,7 @@ A dynamic, interactive quiz application built with HTML, CSS, and JavaScript tha
 3. Start answering questions!
 
 Screenshots 📸
-[Add your application screenshots here]
+<img src = "./ss-homeScreen.png" alt = "home-screen />
 Future Enhancements 🔮
 
 Category selection option
