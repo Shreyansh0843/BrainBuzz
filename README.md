@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shreyansh0843.github.io/BrainBuzz/">
-    <img src="ss-homeScreen.jpg" alt="BrainBuzz Screenshot" width="600"/>
+    <img src="ss-homeScreen.png" alt="BrainBuzz Screenshot" width="600"/>
   </a>
 </p>
 <h1 align="center">
