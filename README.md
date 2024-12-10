@@ -48,8 +48,6 @@ A dynamic, interactive quiz application built with HTML, CSS, and JavaScript tha
 2. Open index.html in your browser
 3. Start answering questions!
 
-Screenshots 📸
-<img src = "./ss-homeScreen.png" alt = "home-screen />
 Future Enhancements 🔮
 
 Category selection option
