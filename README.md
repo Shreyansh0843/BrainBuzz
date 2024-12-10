@@ -1,4 +1,14 @@
-# BrainBuzz 🧠
+<p align="center">
+  <a href="https://alcove-istebits.netlify.app/">
+    <img alt="Alcove ISTEBITS" src="![BrainBuzz](/ss-homeScreem.png)" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  BrainBuzz 🧠
+</h1>
+
+
+
 
 A dynamic, interactive quiz application built with HTML, CSS, and JavaScript that challenges users with diverse questions across general knowledge categories. 
 
