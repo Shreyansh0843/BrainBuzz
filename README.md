@@ -34,3 +34,17 @@ A dynamic, interactive quiz application built with HTML, CSS, and JavaScript tha
 1. Clone the repository
    ```bash
    git clone https://github.com/Shreyansh0843/BrainBuzz.git
+
+2. Open index.html in your browser
+3. Start answering questions!
+
+Screenshots 📸
+[Add your application screenshots here]
+Future Enhancements 🔮
+
+Category selection option
+Difficulty levels
+Timer functionality
+Leaderboard system
+Social sharing capabilities
+Dark/Light theme toggle
